@@ -3,7 +3,8 @@
 main (){
 
 
-printf("Hello World");
+printf("Hello World\n");
+printf("Testando Git");
 
 return 0;
 
